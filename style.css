@@ -1,0 +1,12 @@
+.linear-gradient {
+    background: linear-gradient(
+        to right,
+        #F8EDE3 0%,
+        #F8EDE3 50%,
+        #CEAB93 50%,
+        #CEAB93 100%
+    );
+    height: 100vh;
+}
+
+
